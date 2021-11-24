@@ -19,6 +19,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
   - [Frameworks](#frameworks)
 - [Resources](#resources)
   - [Papers](#papers)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
 
 **[⬆ back to top](#contents)**
 
@@ -40,3 +42,13 @@ _Papers and Publications_
 - [article:2020](https://link.springer.com/article/10.1007/s10639-020-10133-3) - LPR: A bio-inspired intelligent learning path recommendation system based on meaningful learning theory
 - [article:2018](https://www.sciencedirect.com/science/article/abs/pii/S0736585316303124) - An evolutionary approach for personalization of content delivery in e-learning systems based on learner behavior forcing compatibility of learning materials
 - [article:2018](https://www.sciencedirect.com/science/article/abs/pii/S0020025518301397) - Personalized learning full-path recommendation model based on LSTM neural networks
+
+### Books
+
+- [book:2006](https://link.springer.com/chapter/10.1007/11864349_103#citeas) - Adaptive Learning Procedure for a Network of Spiking Neurons and Visual Pattern Recognition
+
+### Tutorials
+
+_Set of tutorials_
+
+- [Adaptive Learning Research](https://github.com/adaptive-learning/adaptive-learning-research) - Data, tools, analysis, and tutorials on adaptive learning.
