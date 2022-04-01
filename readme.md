@@ -42,6 +42,8 @@ _Papers and Publications_
 - [article:2020](https://link.springer.com/article/10.1007/s10639-020-10133-3) - LPR: A bio-inspired intelligent learning path recommendation system based on meaningful learning theory
 - [article:2018](https://www.sciencedirect.com/science/article/abs/pii/S0736585316303124) - An evolutionary approach for personalization of content delivery in e-learning systems based on learner behavior forcing compatibility of learning materials
 - [article:2018](https://www.sciencedirect.com/science/article/abs/pii/S0020025518301397) - Personalized learning full-path recommendation model based on LSTM neural networks
+- [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/) 🫶 - Examining the design of interactive articles by synthesizing theory from disciplines such as education, journalism, and visualization.
+
 
 ### Books
 
@@ -51,4 +53,4 @@ _Papers and Publications_
 
 _Set of tutorials_
 
-- [Adaptive Learning Research](https://github.com/adaptive-learning/adaptive-learning-research) - Data, tools, analysis, and tutorials on adaptive learning.
+- [Adaptive Learning Research](https://github.com/adaptive-learning/adaptive-learning-research) - Data, tools, analysis, and tutorials on adaptive learning. 
