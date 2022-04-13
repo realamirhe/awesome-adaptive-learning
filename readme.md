@@ -8,7 +8,7 @@ Logo was designed by [Tyler Anthony](https://dribbble.com/tyleranthony).
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/amirHossein-Ebrahimi/awesome-adaptive-learning/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/amirHossein-Ebrahimi/awesome-adaptive-learning/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/realamirhe/awesome-adaptive-learning/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/realamirhe/awesome-adaptive-learning/graphs/contributors); you rock!
 
 #### _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
